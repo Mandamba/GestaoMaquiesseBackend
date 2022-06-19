@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="automapper" Version="11.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GestaoMaquiesse.Domain\GestaoMaquiesse.Domain.csproj" />
+    <ProjectReference Include="..\GestaoMaquiesse.Core\GestaoMaquiesse.Core.csproj" />
+    <ProjectReference Include="..\GestaoMaquiesse.Infra\GestaoMaquiesse.Infra.csproj" />
+  </ItemGroup>
+
+</Project>

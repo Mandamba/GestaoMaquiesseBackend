@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qRLCQ6q3DD0QFIzbzVYIQn9H79fQiOT6kSuGNPEmfu1+hJkIUIuqfGUqMb2b1rO4lqXAN5ECOQ8l76RstR216g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marcos Mandamba\\Desktop\\ProjectosEclesial\\GestaoMaquiesse\\src\\GestaoMaquiesse.Domain\\GestaoMaquiesse.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marcos Mandamba\\.nuget\\packages\\fluentvalidation\\11.0.3\\fluentvalidation.11.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

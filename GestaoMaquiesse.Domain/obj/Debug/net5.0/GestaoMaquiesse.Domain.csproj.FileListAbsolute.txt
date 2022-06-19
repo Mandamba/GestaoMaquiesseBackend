@@ -1,0 +1,14 @@
+C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Domain\bin\Debug\net5.0\GestaoMaquiesse.Domain.deps.json
+C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Domain\bin\Debug\net5.0\GestaoMaquiesse.Domain.dll
+C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Domain\bin\Debug\net5.0\ref\GestaoMaquiesse.Domain.dll
+C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Domain\bin\Debug\net5.0\GestaoMaquiesse.Domain.pdb
+C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Domain\bin\Debug\net5.0\GestaoMaquiesse.Core.dll
+C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Domain\bin\Debug\net5.0\GestaoMaquiesse.Core.pdb
+C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Domain\obj\Debug\net5.0\GestaoMaquiesse.Domain.csproj.AssemblyReference.cache
+C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Domain\obj\Debug\net5.0\GestaoMaquiesse.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Domain\obj\Debug\net5.0\GestaoMaquiesse.Domain.AssemblyInfoInputs.cache
+C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Domain\obj\Debug\net5.0\GestaoMaquiesse.Domain.AssemblyInfo.cs
+C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Domain\obj\Debug\net5.0\GestaoMaquiesse.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Domain\obj\Debug\net5.0\GestaoMaquiesse.Domain.dll
+C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Domain\obj\Debug\net5.0\ref\GestaoMaquiesse.Domain.dll
+C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Domain\obj\Debug\net5.0\GestaoMaquiesse.Domain.pdb

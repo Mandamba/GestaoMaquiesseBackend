@@ -1,0 +1,12 @@
+C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Core\bin\Debug\net5.0\GestaoMaquiesse.Core.deps.json
+C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Core\bin\Debug\net5.0\GestaoMaquiesse.Core.dll
+C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Core\bin\Debug\net5.0\ref\GestaoMaquiesse.Core.dll
+C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Core\bin\Debug\net5.0\GestaoMaquiesse.Core.pdb
+C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Core\obj\Debug\net5.0\GestaoMaquiesse.Core.csproj.AssemblyReference.cache
+C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Core\obj\Debug\net5.0\GestaoMaquiesse.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Core\obj\Debug\net5.0\GestaoMaquiesse.Core.AssemblyInfoInputs.cache
+C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Core\obj\Debug\net5.0\GestaoMaquiesse.Core.AssemblyInfo.cs
+C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Core\obj\Debug\net5.0\GestaoMaquiesse.Core.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Core\obj\Debug\net5.0\GestaoMaquiesse.Core.dll
+C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Core\obj\Debug\net5.0\ref\GestaoMaquiesse.Core.dll
+C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Core\obj\Debug\net5.0\GestaoMaquiesse.Core.pdb
