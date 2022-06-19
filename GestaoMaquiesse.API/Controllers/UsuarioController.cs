@@ -68,5 +68,27 @@ namespace GestaoMaquiesse.API.Controllers
                 return StatusCode(500, Responses.MensagemDeErroNaAplicacao());
             }
         }
+
+        [HttpDelete]
+        [Route("api/v1/usuarios/deletar/{id}")]
+        public async Task<IActionResult> RemoverUsuario(long id)
+        {
+            try
+            {
+                await _servicoUsuario.Deletar(id);
+
+                return Ok( new ResultadoModelView{
+                    Mensagem = "Usuário removido com sucesso",
+                    Sucesso = true
+                });
+            }
+            catch (ExcecoesDominio ex)
+            {
+                return BadRequest(Responses.MensagemDeErroDeDominio(ex.Message, ex.Erros));
+            }
+            catch(Exception){
+                return StatusCode(500, Responses.MensagemDeErroNaAplicacao());
+            }
+        }
     }
 }
