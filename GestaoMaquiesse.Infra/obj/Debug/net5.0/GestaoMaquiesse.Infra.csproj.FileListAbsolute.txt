@@ -17,3 +17,4 @@ C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaq
 C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Infra\obj\Debug\net5.0\ref\GestaoMaquiesse.Infra.dll
 C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Infra\obj\Debug\net5.0\GestaoMaquiesse.Infra.pdb
 C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Infra\obj\Debug\net5.0\GestaoMaquiesse.Infra.genruntimeconfig.cache
+C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Infra\obj\Debug\net5.0\GestaoMaquiesse.Infra.csproj.CopyComplete

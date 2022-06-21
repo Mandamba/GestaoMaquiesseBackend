@@ -90,5 +90,65 @@ namespace GestaoMaquiesse.API.Controllers
                 return StatusCode(500, Responses.MensagemDeErroNaAplicacao());
             }
         }
+
+        [HttpGet]
+        [Route("api/v1/usuarios/obter/{id}")]
+        public async Task<IActionResult> Obter(long id)
+        {
+            try
+            {
+                var usarioRetornado = await _servicoUsuario.Obter(id);
+
+                if(usarioRetornado == null)
+                        return Ok( new ResultadoModelView{
+                        Mensagem = "Usuário não encontrado com o identificador informado",
+                        Sucesso = true,
+                        Dados = usarioRetornado
+                    });
+
+                return Ok( new ResultadoModelView{
+                    Mensagem = "Usuário encontrado com sucesso",
+                    Sucesso = true,
+                    Dados = usarioRetornado
+                });
+            }
+            catch (ExcecoesDominio ex)
+            {
+                return BadRequest(Responses.MensagemDeErroDeDominio(ex.Message, ex.Erros));
+            }
+            catch(Exception){
+                return StatusCode(500, Responses.MensagemDeErroNaAplicacao());
+            }
+        }
+
+        [HttpGet]
+        [Route("api/v1/usuarios/listar")]
+        public async Task<IActionResult> ListarUsuarios()
+        {
+            try
+            {
+                var usarioRetornado = await _servicoUsuario.Listar();
+
+                if(usarioRetornado == null)
+                        return Ok( new ResultadoModelView{
+                        Mensagem = "Não existe dados cadastrados!",
+                        Sucesso = true,
+                        Dados = usarioRetornado
+                    });
+
+                return Ok( new ResultadoModelView{
+                    Mensagem = "Dados encontrados!",
+                    Sucesso = true,
+                    Dados = usarioRetornado
+                });
+            }
+            catch (ExcecoesDominio ex)
+            {
+                return BadRequest(Responses.MensagemDeErroDeDominio(ex.Message, ex.Erros));
+            }
+            catch(Exception){
+                return StatusCode(500, Responses.MensagemDeErroNaAplicacao());
+            }
+        }
     }
 }

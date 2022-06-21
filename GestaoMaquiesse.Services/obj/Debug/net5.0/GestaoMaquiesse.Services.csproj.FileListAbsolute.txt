@@ -16,3 +16,4 @@ C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaq
 C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Services\obj\Debug\net5.0\GestaoMaquiesse.Services.dll
 C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Services\obj\Debug\net5.0\ref\GestaoMaquiesse.Services.dll
 C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Services\obj\Debug\net5.0\GestaoMaquiesse.Services.pdb
+C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.Services\obj\Debug\net5.0\GestaoMaquiesse.Services.csproj.CopyComplete

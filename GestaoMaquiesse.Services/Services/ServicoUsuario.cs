@@ -47,7 +47,7 @@ namespace GestaoMaquiesse.Services.Services
             await _respositorioUsuario.Deletar(id);
         }
 
-        public async Task<List<UsuarioDTO>> Listar(UsuarioDTO usuarioDTO)
+        public async Task<List<UsuarioDTO>> Listar()
         {
             var todosUsuarios = await _respositorioUsuario.Listar();
 

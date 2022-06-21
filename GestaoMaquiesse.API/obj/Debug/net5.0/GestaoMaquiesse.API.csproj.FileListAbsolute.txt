@@ -67,3 +67,4 @@ C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaq
 C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.API\obj\Debug\net5.0\ref\GestaoMaquiesse.API.dll
 C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.API\obj\Debug\net5.0\GestaoMaquiesse.API.pdb
 C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.API\obj\Debug\net5.0\GestaoMaquiesse.API.genruntimeconfig.cache
+C:\Users\Marcos Mandamba\Desktop\ProjectosEclesial\GestaoMaquiesse\src\GestaoMaquiesse.API\obj\Debug\net5.0\GestaoMaquiesse.API.csproj.CopyComplete
